@@ -23,7 +23,7 @@
 
 > 담당 업무
 >- Front-end 역활로 UI/UX 디자인 구현 및 발표
->- 플렛폼을 활용한 초기 UI의 CSS를 수정
+>- 플랫폼을 활용한 초기 UI의 CSS 수정
 >- 추가적인 소개페이지 로그인 페이지 구현
 >
 ---
@@ -33,8 +33,8 @@
 
 > 담당 업무
 >- Front-end, Back-end, 발표
->- RESTFul API를 활용한 프로젝트로 API기능 구현및 API 호출을 구현
->- React를 활용한 Front-end 통합 환경 구축
+>- RESTful API 기반 기능 구현 및 API 호출 처리
+>- React를 활용한 통합 Front-end  환경 구축
 >
 ---
 ### 3. 식재료 기반 음식 검색 및 사용자 취향 추천 서비스 (YORIJORI) 
@@ -42,11 +42,11 @@
 >[프로젝트 상세 설명 확인하기](https://github.com/fakouho/yorijori)
 
 > 담당 업무
->- Front-end, Back-end
->- Node.js & express를 활용한 Back-end 서버 구축 및 API 구현
->- Mysql을 활용한 데이터베이스 구축
->- React Front-end ux 내부의 API 호출 기능 구현
->- python 크롤링을 통한 데이터 수집
+>- Front-end 및 Back-end 개발
+>- Node.js와 Express를 사용한 Back-end 서버 구축 및 API 구현
+>- MySQL을 사용한 데이터베이스 설계 및 구축
+>- React Front-end에서 API 호출 기능 구현
+>- Python을 활용한 웹 크롤링으로 데이터 수집
 >
 ---
 ### 4. 게시판 만들기 (개인프로젝트)
@@ -54,9 +54,9 @@
 >[프로젝트 상세 설명 확인하기](https://github.com/fakouho/board)
 
 > 구현 목표
->- RESTFul API를 활용한 React, spring 독립적 개발활경구축
->- Mysql을 활용한 데이터베이스 구축
->- 외부 API를 활용한 네이버 로그인
->- cookie 활용
+>- RESTful API를 활용한 React와 Spring 독립적 개발 환경 구축
+>- MySQL을 활용한 데이터베이스 구축
+>- 외부 API를 활용한 네이버 로그인 기능 구현
+>- 쿠키를 활용한 사용자 인증 처리
 >
 ---
