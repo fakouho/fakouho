@@ -56,3 +56,16 @@
 >- 서버 및 협업 도구 : GitHub, Flask
 >  
 ---
+### 4. 게시판 만들기 (개인프로젝트)
+>개발 기간: 2024.09.24 ~ 진행 중  
+>[프로젝트 상세 설명 확인하기](https://github.com/fakouho/board)
+
+> 프로젝트 사용 개발환경
+>- 언어 : Java, HTML, CSS, JavaScript
+>- 프레임워크 : Spring
+>- 라이브러리 : React, Bootstrap, AJAX
+>- 개발도구 : Spring Tools4, jupyter, VScode
+>- 데이터베이스 : MySQL
+>- 서버 및 협업 도구 : GitHub, Notion, tomcat
+>  
+---
