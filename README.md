@@ -1,6 +1,4 @@
 # 우석 포트폴리오
-![배경1](https://github.com/user-attachments/assets/644d4c87-a06a-429c-ada3-f424c54b864d)
-
 </br>
 
 ## :소개말
