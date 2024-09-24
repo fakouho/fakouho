@@ -17,10 +17,23 @@
 </br>
 
 ## 💻 Projects
-### 1. [포트폴리오]
+### 1. 첫 번째 프로젝트
 >나의 프론트엔드 포트폴리오 (팀 프로젝트)  
->개발 기간: 2024.03.17 ~ 2024.04.02  
+>개발 기간: 2024.03.18 ~ 2024.04.02  
 >[프로젝트 상세 설명 확인하기](https://github.com/fakouho/FitNeeds/tree/main)
+
+> 프로젝트 사용 개발환경
+>- 언어 : https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white, html, css, js, python
+>- 라이브러리 : boottrap, vanillaJS, AJAX
+>- 개발도구 : eclipse, jupyter, VScode
+>- 데이터 베이스 : MySQL
+>- 서버 및 협업 도구 : GitHub, tomcat, Flask
+>  
+---
+### 2. 두 번째 프로젝트
+>나의 프론트엔드 포트폴리오 (팀 프로젝트)  
+>개발 기간: 2024.05.28 ~ 2024.06.20  
+>[프로젝트 상세 설명 확인하기](https://github.com/fakouho/normALearn)
 
 > 프로젝트 사용 개발환경
 >- 언어 : java, html, css, js, python
@@ -30,51 +43,16 @@
 >- 서버 및 협업 도구 : GitHub, tomcat, Flask
 >  
 ---
-### 1. [포트폴리오]
+### 3. 세 번째 프로젝
 >나의 프론트엔드 포트폴리오 (팀 프로젝트)  
->개발 기간: 2024.03.17 ~ 2024.04.02  
->[프로젝트 상세 설명 확인하기](https://github.com/fakouho/FitNeeds/tree/main)
+>개발 기간: 2024.07.19 ~ 2024.08.02  
+>[프로젝트 상세 설명 확인하기](https://github.com/fakouho/yorijori)
 
 > 프로젝트 사용 개발환경
->- 언어 : java, html, css, js, python
+>- 언어 : java, html, css, js, python  
 >- 라이브러리 : boottrap, vanillaJS, AJAX
 >- 개발도구 : eclipse, jupyter, VScode
 >- 데이터 베이스 : MySQL
 >- 서버 및 협업 도구 : GitHub, tomcat, Flask
 >  
 ---
-### 1. [포트폴리오]
->나의 프론트엔드 포트폴리오 (팀 프로젝트)  
->개발 기간: 2024.03.17 ~ 2024.04.02  
->[프로젝트 상세 설명 확인하기](https://github.com/fakouho/FitNeeds/tree/main)
-
-> 프로젝트 사용 개발환경
->- 언어 : java, html, css, js, python
->- 라이브러리 : boottrap, vanillaJS, AJAX
->- 개발도구 : eclipse, jupyter, VScode
->- 데이터 베이스 : MySQL
->- 서버 및 협업 도구 : GitHub, tomcat, Flask
->  
----
-
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/fakouho/normALearn?tab=readme-ov-file) 참고
-
----
-
-### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
