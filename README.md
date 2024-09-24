@@ -21,51 +21,42 @@
 >개발 기간: 2024.03.18 ~ 2024.04.02  
 >[프로젝트 상세 설명 확인하기](https://github.com/fakouho/FitNeeds/tree/main)
 
-> 프로젝트 사용 개발환경
->- 언어 : Java, HTML, CSS, JavaScript, python
->- 프레임워크 : JPA
->- 라이브러리 : Bootstrap, AJAX
->- 개발 도구 : eclipse, jupyter, VScode
->- 데이터베이스 : MySQL
->- 서버 및 협업 도구 : GitHub, tomcat, Flask
->  
+> 담당 업무
+>- Front-end 역활로 UI/UX 디자인 구현 및 발표
+>- 플렛폼을 활용한 초기 UI의 CSS를 수정
+>- 추가적인 소개페이지 로그인 페이지 구현
+>
 ---
 ### 2. AL합금 열처리 정보제공 서비스(normALearn)
 >개발 기간: 2024.05.28 ~ 2024.06.20  
 >[프로젝트 상세 설명 확인하기](https://github.com/fakouho/normALearn)
 
-> 프로젝트 사용 개발환경
->- 언어 : Java, HTML, CSS, JavaScript, python
->- 프레임워크 : Spring
->- 라이브러리 : React, Bootstrap, AJAX, Chart.js
->- 개발도구 : Spring Tools4, jupyter, VScode
->- 데이터베이스 : MySQL
->- 서버 및 협업 도구 : GitHub, Notion, tomcat, Flask
->  
+> 담당 업무
+>- Front-end, Back-end, 발표
+>- RESTFul API를 활용한 프로젝트로 API기능 구현및 API 호출을 구현
+>- React를 활용한 Front-end 통합 환경 구축
+>
 ---
 ### 3. 식재료 기반 음식 검색 및 사용자 취향 추천 서비스 (YORIJORI) 
 >개발 기간: 2024.07.19 ~ 2024.08.02  
 >[프로젝트 상세 설명 확인하기](https://github.com/fakouho/yorijori)
 
-> 프로젝트 사용 개발환경
->- 언어 : HTML, CSS, JavaScript, python
->- 프레임워크 : Node.js & Express  
->- 라이브러리 : React, AJAX, Chart.js
->- 개발도구 : jupyter, VScode
->- 데이터베이스 : MySQL
->- 서버 및 협업 도구 : GitHub, Flask
->  
+> 담당 업무
+>- Front-end, Back-end
+>- Node.js & express를 활용한 Back-end 서버 구축 및 API 구현
+>- Mysql을 활용한 데이터베이스 구축
+>- React Front-end ux 내부의 API 호출 기능 구현
+>- python 크롤링을 통한 데이터 수집
+>
 ---
 ### 4. 게시판 만들기 (개인프로젝트)
 >개발 기간: 2024.09.24 ~ 진행 중  
 >[프로젝트 상세 설명 확인하기](https://github.com/fakouho/board)
 
-> 프로젝트 사용 개발환경
->- 언어 : Java, HTML, CSS, JavaScript
->- 프레임워크 : Spring
->- 라이브러리 : React, Bootstrap, AJAX
->- 개발도구 : Spring Tools4, jupyter, VScode
->- 데이터베이스 : MySQL
->- 서버 및 협업 도구 : GitHub, Notion, tomcat
->  
+> 구현 목표
+>- RESTFul API를 활용한 React, spring 독립적 개발활경구축
+>- Mysql을 활용한 데이터베이스 구축
+>- 외부 API를 활용한 네이버 로그인
+>- cookie 활용
+>
 ---
