@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5bbe905a-02fa-42ec-909b-e9513e299a75)
+![image](https://github.com/user-attachments/assets/8d928e46-0f73-4ec7-8868-ce598762b652)
 
 ## :소개말
  안녕하십니까 개발자가 되기 위해 노력하고 있는 개발자 강우석 입니다.
