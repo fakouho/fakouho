@@ -11,7 +11,7 @@
 - Notion: https://tremendous-windflower-e9b.notion.site/e6c8b9877e644708acb292fa814745a2?pvs=4
 </br>
 
-## :pushpin: Education
+## 🛫 Education
 - 광주 인공지능사관학교 5기 - (2024.06.23 ~ 현재)
 - 광주 스마트인재개발원 빅데이터분석 23기 - (2023.12.26 ~ 2024.06.21)
 </br>
