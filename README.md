@@ -1,5 +1,4 @@
 # 우석 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
 - 돌다리도 두드려 보고 건넌다
 </br>
 
@@ -11,6 +10,7 @@
 ## :pushpin: Contact
 - 이메일: kws2372@naver.com
 - 깃헙: https://github.com/fakouho
+- Notion: https://tremendous-windflower-e9b.notion.site/e6c8b9877e644708acb292fa814745a2?pvs=4
 </br>
 
 ## :pushpin: Projects
